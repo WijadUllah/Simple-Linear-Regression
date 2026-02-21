@@ -47,3 +47,5 @@ The output of this project includes:
 
 ## 🎯 Conclusion
 Simple Linear Regression is one of the most important foundational algorithms in Machine Learning. Understanding this concept helps in learning advanced topics like Multiple Linear Regression and Polynomial Regression.
+
+Author - Wijad Ullah
